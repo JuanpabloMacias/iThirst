@@ -1,24 +1,33 @@
 {
-  "categories": [
+    "branches": [
     {
-      "name": "Reason",
-      "phrases": [
+        "title": "Church",
+        "topic": [
         {
-          "Text": "God is Good"
-        },
-        {
-          "Text": "His love endures forever"
+            "title": "Eucharist",
+            "approach": [
+            {
+                "title": "Scripture",
+                "seeds": [
+                {
+                    "title": "Guilty of His Blood",
+                    "phrases": [
+                    {
+                        "text": "He is good all the time and all the time He is good!",
+                        "supportPhrase": [
+                        {
+                            "text": "God is good all the time and all the time God is good!"
+                        }
+                        ]
+                    }
+                    ]
+                }
+                ]
+            }
+
+            ]
         }
-      ],
-      "type": ""
-    },
-    {
-      "name": "Support",
-      "phrases": [
-        {
-          "Text": "Big bang was discovered by George."
-        }
-      ],
-      "type": ""
-    }]
+    ]
+    }
+    ]
 }
