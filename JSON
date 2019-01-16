@@ -2,33 +2,28 @@
     "title": "Church",
     "infoTopics": [
     {
-        "title": "Church",
-        "infoTopics": [
-        {
-            "title": "Eucharist",
-            "infoApproaches": [
-            {
-                "title": "Scripture",
-                "infoSeeds": [
-                {
-                    "title": "Guilty of His Blood",
-                    "infoPhrases": [
-                    {
-                        "text": "He is good all the time and all the time He is good!",
-                        "infoSupportPhrase": [
-                        {
-                            "text": "God is good all the time and all the time God is good!"
-                        }
-                        ]
-                    }
-                    ]
-                }
-                ]
-            }
+         "title": "Eucharist",
+         "infoApproaches": [
+         {
+             "title": "Scripture",
+             "infoSeeds": [
+             {
+                 "title": "Guilty of His Blood",
+                 "infoPhrases": [
+                 {
+                     "text": "He is good all the time and all the time He is good!",
+                     "infoSupportPhrase": [
+                     {
+                         "text": "God is good all the time and all the time God is good!"
+                     }
+                     ]
+                 }
+                 ]
+             }
+             ]
+         }
+         ]
 
-            ]
-        }
-    ]
     }
     ]
 }
