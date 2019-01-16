@@ -1,20 +1,20 @@
 {
-    "InfoBranch": [
+    "infoBranch": [
     {
         "title": "Church",
-        "InfoTopic": [
+        "infoTopic": [
         {
             "title": "Eucharist",
-            "InfoApproach": [
+            "infoApproach": [
             {
                 "title": "Scripture",
-                "InfoSeed": [
+                "infoSeed": [
                 {
                     "title": "Guilty of His Blood",
-                    "InfoPhrase": [
+                    "infoPhrase": [
                     {
                         "text": "He is good all the time and all the time He is good!",
-                        "InfoSupportPhrase": [
+                        "infoSupportPhrase": [
                         {
                             "text": "God is good all the time and all the time God is good!"
                         }
