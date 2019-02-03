@@ -42,6 +42,7 @@
             {
               "infoPhrases": [
                 {
+                  "title": "This is my title",
                   "text": "This is my body. Mt. 31",
                   "infoSupportPhrase": {
                     "text": "God is good all the time and all the time God is good!"
