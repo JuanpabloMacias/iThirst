@@ -1,86 +1,79 @@
 {
-    "title": "Church",
-    "infoTopics": [
+  "title": "Church",
+  "infoTopics": [
     {
-         "title": "Eucharist",
-         "infoApproaches": [
-         {
-            "title": "History",
-            "infoSeeds": [
+      "title": "Eucharist",
+      "infoApproaches": [
+        {
+          "title": "History",
+          "infoSeeds": [
             {
-                "title": "Ignatius",
-                "infoPhrases": [
+              "title": "Ignatius",
+              "infoPhrases": [
                 {
-                    "text": "I have no taste for corruptible food nor for the pleasures of this life. I desire the bread of God, which is the flesh of Jesus Christ, who was of the seed of David; and for drink I desire his blood, which is love incorruptible. Ignatius of Antioch [A.D. 110]",
-                    "infoSupportPhrase": {
-                        "text":"I support Ignatius all day."
-                    }
+                  "text": "I have no taste for corruptible food nor for the pleasures of this life. I desire the bread of God, which is the flesh of Jesus Christ, who was of the seed of David; and for drink I desire his blood, which is love incorruptible. Ignatius of Antioch [A.D. 110]",
+                  "infoSupportPhrase": {
+                    "text": "I support Ignatius all day."
+                  }
                 }
-
-                ]
+              ]
             }
-            ]
-         },
-         {
-            "title": "Miracles",
-            "infoSeeds": [
+          ]
+        },
+        {
+          "title": "Miracles",
+          "infoSeeds": [
             {
-                "title": "Lanciano",
-                "infoPhrases": [
+              "title": "Lanciano",
+              "infoPhrases": [
                 {
-                    "text": "In the 8th century, a priest in Lanciano, Italy was experiencing doubts about the real presence of Jesus in the Eucharist. In the middle of saying Mass, he said the words of consecration 'This is my body, This is my blood)' and saw the bread and wine transform into real human flesh and blood.",
-                    "infoSupportPhrase": {
-                        "text":"I support Lanciano all day."
-                    }
+                  "text": "In the 8th century, a priest in Lanciano, Italy was experiencing doubts about the real presence of Jesus in the Eucharist. In the middle of saying Mass, he said the words of consecration 'This is my body, This is my blood)' and saw the bread and wine transform into real human flesh and blood.",
+                  "infoSupportPhrase": {
+                    "text": "I support Lanciano all day."
+                  }
                 }
-
-                ]
+              ]
             }
-            ]
-         },
-         {
-             "title": "Scripture",
-             "infoSeeds": [
-             {
-                 "title": "Guilty of His Blood",
-                 "infoPhrases": [
-                 {
-                     "text": "Jesus is good all the time and all the time He is good!",
-                     "infoSupportPhrase": 
-                     {
-                         "text": "God is good all the time and all the time God is good!"
-                     } 
-                 },
-                 {
-                     "text": "God's love endures forever!"
-                 },
-                 {
-                     "text": "Whoever eats My flesh and drinks My blood has eternal life, and I will raise him up at the last day. For My flesh is [a]food indeed, and My blood is drink indeed. He who eats My flesh and drinks My blood abides in Me, and I in him. - Jn 6:54-56",
-                     "infoSupportPhrase": 
-                     {
-                         "text": "The word used in Greek for 'eats' is trōgōn - meaning to gnaw!"
-                     } 
-                 },
-                 {
-                     "text": "God's love endures forever!",
-                     "infoSupportPhrase": 
-                     {
-                         "text": "He is the way, the truth, and the life!"
-                     } 
-                 },
-                 {
-                     "text": "God's love endures forever!",
-                     "infoSupportPhrase": 
-                     {
-                         "text": "He is the way, the truth, and the life!"
-                     } 
-                 }
-                 ]
-             }
-             ]
-         }
-         ]
-
+          ]
+        },
+        {
+          "title": "Scripture",
+          "infoSeeds": [
+            {
+              "title": "Guilty of His Blood",
+              "infoPhrases": [
+                {
+                  "text": "This is my body. Mt. 31",
+                  "infoSupportPhrase": {
+                    "text": "God is good all the time and all the time God is good!"
+                  }
+                },
+                {
+                  "text": "God's love endures forever!"
+                },
+                {
+                  "text": "Whoever eats My flesh and drinks My blood has eternal life, and I will raise him up at the last day. For My flesh is [a]food indeed, and My blood is drink indeed. He who eats My flesh and drinks My blood abides in Me, and I in him. - Jn 6:54-56",
+                  "infoSupportPhrase": {
+                    "text": "The word used in Greek for 'eats' is trōgōn - meaning to gnaw!"
+                  }
+                },
+                {
+                  "text": "God's love endures forever!",
+                  "infoSupportPhrase": {
+                    "text": "He is the way, the truth, and the life!"
+                  }
+                },
+                {
+                  "text": "God's love endures forever!",
+                  "infoSupportPhrase": {
+                    "text": "He is the way, the truth, and the life!"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
-    ]
+  ]
 }
