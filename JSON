@@ -16,10 +16,18 @@
         {
           "title": "Miracles",
           "infoSeeds": [
+          [
                 {
                   "text": "In the 8th century, a priest in Lanciano, Italy was experiencing doubts about the real presence of Jesus in the Eucharist. In the middle of saying Mass, he said the words of consecration 'This is my body, This is my blood)' and saw the bread and wine transform into real human flesh and blood.",
                   "infoSupportPhrase": "I support Lanciano all day."
                 }
+          ],
+          [
+                {
+                  "text": "In the 8th century, a priest in Lanciano, Italy was experiencing doubts about the real presence of Jesus in the Eucharist. In the middle of saying Mass, he said the words of consecration 'This is my body, This is my blood)' and saw the bread and wine transform into real human flesh and blood.",
+                  "infoSupportPhrase": "I support Lanciano all day."
+                }
+          ]
           ]
         }
       ]
