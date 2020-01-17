@@ -1,5 +1,4 @@
-{ 
-    "_id" : ObjectId("5e214761f5fbf18d6eace365"), 
+{
     "title" : "Church", 
     "tops" : [
         {
@@ -369,9 +368,6 @@
                     ]
                 }
             ], 
-            "request" : {
-                "type" : "GET", 
-                "url" : "http://localhost:3000/topics/5cb8f20514b0686d795a3046"
             }
         }
     ]
