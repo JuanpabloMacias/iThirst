@@ -367,7 +367,11 @@
                         ]
                     ]
                 }
-            ] 
-            }
+            ],
+            "request": {
+        "type": "GET",
+        "url": "http://localhost:3000/topics/5cc47744db6c7873a1a69289"
+      }
+        }
     ]
 }
