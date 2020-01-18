@@ -3,10 +3,14 @@
     "tops" : [
         {
             "title" : "Abortion", 
+            "request" : {
+                "type" : "GET", 
+                "url" : "http://localhost:3000/topics/5cb8f20514b0686d795a3046"
+            }, 
             "subs" : [
                 {
                     "title" : "It's Not Alive", 
-                    "sds" : [
+                    "tracts" : [
                         [
                             {
                                 "t" : "One. Whoever eats my flesh and drinks my blood has eternal life, and I will raise him on the last day. For my flesh is true food, and my blood is true drink.", 
@@ -127,7 +131,7 @@
                 }, 
                 {
                     "title" : "Clump of Cells", 
-                    "sds" : [
+                    "tracts" : [
                         [
                             {
                                 "t" : "One. Whoever eats my flesh and drinks my blood has eternal life, and I will raise him on the last day. For my flesh is true food, and my blood is true drink.", 
@@ -248,7 +252,7 @@
                 }, 
                 {
                     "title" : "You're a Man", 
-                    "sds" : [
+                    "tracts" : [
                         [
                             {
                                 "t" : "One. Whoever eats my flesh and drinks my blood has eternal life, and I will raise him on the last day. For my flesh is true food, and my blood is true drink.", 
@@ -367,11 +371,7 @@
                         ]
                     ]
                 }
-            ], 
-            "request" : {
-                "type" : "GET", 
-                "url" : "http://localhost:3000/topics/5cb8f20514b0686d795a3046"
-            }
+            ]
         }
     ]
 }
