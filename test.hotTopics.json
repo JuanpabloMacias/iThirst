@@ -1,9 +1,9 @@
-{
+{ 
     "title" : "Church", 
     "tops" : [
         {
             "title" : "Abortion", 
-            "apps" : [
+            "subs" : [
                 {
                     "title" : "It's Not Alive", 
                     "sds" : [
@@ -367,11 +367,11 @@
                         ]
                     ]
                 }
-            ],
-            "request": {
-        "type": "GET",
-        "url": "http://localhost:3000/topics/5cc47744db6c7873a1a69289"
-      }
+            ], 
+            "request" : {
+                "type" : "GET", 
+                "url" : "http://localhost:3000/topics/5cb8f20514b0686d795a3046"
+            }
         }
     ]
 }
