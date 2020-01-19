@@ -41,3 +41,362 @@
         }
     ]
 }
+{ 
+    "_id" : ObjectId("5e214761f5fbf18d6eace365"), 
+    "title" : "Church", 
+    "tops" : [
+        {
+            "title" : "Abortion", 
+            "subs" : [
+                {
+                    "title" : "It's Not Alive", 
+                    "tracts" : [
+                        [
+                            {
+                                "t" : "Human life begins at conception.", 
+                                "s" : "Support One. The word for eat is Trogo, meaning to gnaw in Greek."
+                            }, 
+                            {
+                                "t" : "The preborn are alive.", 
+                                "s" : "Take in nutrients."
+                            }, 
+                            {
+                                "t" : "The preborn are human.", 
+                                "s" : "Offspring of human parents and have human DNA"
+                            }, 
+                            {
+                                "t" : "The preborn are whole organisms.", 
+                                "s" : "Intrinsic capacity to develop as organisims, where as sperm, egg, and body cells are just human tissue."
+                            }
+                        ], 
+                        [
+                            {
+                                "t" : "Even Pro-choice advocates believe life begins at conception.", 
+                                "s" : "'There is no doubt that from the first moments of its existence an embryo conceived from human sperm and egs is a human being.' - Peter Singer, Practical Ethics."
+                            }
+                        ]
+                    ]
+                }, 
+                {
+                    "title" : "Clump of Cells", 
+                    "tracts" : [
+                        [
+                            {
+                                "t" : "Human life begins at conception.", 
+                                "s" : "Support One. The word for eat is Trogo, meaning to gnaw in Greek."
+                            }, 
+                            {
+                                "t" : "The preborn are alive.", 
+                                "s" : "Take in nutrients."
+                            }, 
+                            {
+                                "t" : "The preborn are human.", 
+                                "s" : "Offspring of human parents and have human DNA"
+                            }, 
+                            {
+                                "t" : "The preborn are whole organisms.", 
+                                "s" : "Intrinsic capacity to develop as organisims, where as sperm, egg, and body cells are just human tissue."
+                            }
+                        ], 
+                        [
+                            {
+                                "t" : "Even Pro-choice advocates believe life begins at conception.", 
+                                "s" : "'There is no doubt that from the first moments of its existence an embryo conceived from human sperm and egs is a human being.' - Peter Singer, Practical Ethics."
+                            }
+                        ]
+                    ]
+                }, 
+                {
+                    "title" : "You're a Man", 
+                    "tracts" : [
+                        [
+                            {
+                                "t" : "Human life begins at conception.", 
+                                "s" : "Support One. The word for eat is Trogo, meaning to gnaw in Greek."
+                            }, 
+                            {
+                                "t" : "The preborn are alive.", 
+                                "s" : "Take in nutrients."
+                            }, 
+                            {
+                                "t" : "The preborn are human.", 
+                                "s" : "Offspring of human parents and have human DNA"
+                            }, 
+                            {
+                                "t" : "The preborn are whole organisms.", 
+                                "s" : "Intrinsic capacity to develop as organisims, where as sperm, egg, and body cells are just human tissue."
+                            }
+                        ], 
+                        [
+                            {
+                                "t" : "Even Pro-choice advocates believe life begins at conception.", 
+                                "s" : "'There is no doubt that from the first moments of its existence an embryo conceived from human sperm and egs is a human being.' - Peter Singer, Practical Ethics."
+                            }
+                        ]
+                    ]
+                }, 
+                {
+                    "title" : "It's My Body", 
+                    "tracts" : [
+                        [
+                            {
+                                "t" : "Human life begins at conception.", 
+                                "s" : "Support One. The word for eat is Trogo, meaning to gnaw in Greek."
+                            }, 
+                            {
+                                "t" : "The preborn are alive.", 
+                                "s" : "Take in nutrients."
+                            }, 
+                            {
+                                "t" : "The preborn are human.", 
+                                "s" : "Offspring of human parents and have human DNA"
+                            }, 
+                            {
+                                "t" : "The preborn are whole organisms.", 
+                                "s" : "Intrinsic capacity to develop as organisims, where as sperm, egg, and body cells are just human tissue."
+                            }
+                        ], 
+                        [
+                            {
+                                "t" : "Even Pro-choice advocates believe life begins at conception.", 
+                                "s" : "'There is no doubt that from the first moments of its existence an embryo conceived from human sperm and egs is a human being.' - Peter Singer, Practical Ethics."
+                            }
+                        ]
+                    ]
+                }, 
+                {
+                    "title" : "Overpopulation", 
+                    "tracts" : [
+                        [
+                            {
+                                "t" : "Human life begins at conception.", 
+                                "s" : "Support One. The word for eat is Trogo, meaning to gnaw in Greek."
+                            }, 
+                            {
+                                "t" : "The preborn are alive.", 
+                                "s" : "Take in nutrients."
+                            }, 
+                            {
+                                "t" : "The preborn are human.", 
+                                "s" : "Offspring of human parents and have human DNA"
+                            }, 
+                            {
+                                "t" : "The preborn are whole organisms.", 
+                                "s" : "Intrinsic capacity to develop as organisims, where as sperm, egg, and body cells are just human tissue."
+                            }
+                        ], 
+                        [
+                            {
+                                "t" : "Even Pro-choice advocates believe life begins at conception.", 
+                                "s" : "'There is no doubt that from the first moments of its existence an embryo conceived from human sperm and egs is a human being.' - Peter Singer, Practical Ethics."
+                            }
+                        ]
+                    ]
+                }, 
+                {
+                    "title" : "Can't feel pain", 
+                    "tracts" : [
+                        [
+                            {
+                                "t" : "Human life begins at conception.", 
+                                "s" : "Support One. The word for eat is Trogo, meaning to gnaw in Greek."
+                            }, 
+                            {
+                                "t" : "The preborn are alive.", 
+                                "s" : "Take in nutrients."
+                            }, 
+                            {
+                                "t" : "The preborn are human.", 
+                                "s" : "Offspring of human parents and have human DNA"
+                            }, 
+                            {
+                                "t" : "The preborn are whole organisms.", 
+                                "s" : "Intrinsic capacity to develop as organisims, where as sperm, egg, and body cells are just human tissue."
+                            }
+                        ], 
+                        [
+                            {
+                                "t" : "Even Pro-choice advocates believe life begins at conception.", 
+                                "s" : "'There is no doubt that from the first moments of its existence an embryo conceived from human sperm and egs is a human being.' - Peter Singer, Practical Ethics."
+                            }
+                        ]
+                    ]
+                }, 
+                {
+                    "title" : "No heartbeat", 
+                    "tracts" : [
+                        [
+                            {
+                                "t" : "Human life begins at conception.", 
+                                "s" : "Support One. The word for eat is Trogo, meaning to gnaw in Greek."
+                            }, 
+                            {
+                                "t" : "The preborn are alive.", 
+                                "s" : "Take in nutrients."
+                            }, 
+                            {
+                                "t" : "The preborn are human.", 
+                                "s" : "Offspring of human parents and have human DNA"
+                            }, 
+                            {
+                                "t" : "The preborn are whole organisms.", 
+                                "s" : "Intrinsic capacity to develop as organisims, where as sperm, egg, and body cells are just human tissue."
+                            }
+                        ], 
+                        [
+                            {
+                                "t" : "Even Pro-choice advocates believe life begins at conception.", 
+                                "s" : "'There is no doubt that from the first moments of its existence an embryo conceived from human sperm and egs is a human being.' - Peter Singer, Practical Ethics."
+                            }
+                        ]
+                    ]
+                }, 
+                {
+                    "title" : "Religious issue", 
+                    "tracts" : [
+                        [
+                            {
+                                "t" : "Human life begins at conception.", 
+                                "s" : "Support One. The word for eat is Trogo, meaning to gnaw in Greek."
+                            }, 
+                            {
+                                "t" : "The preborn are alive.", 
+                                "s" : "Take in nutrients."
+                            }, 
+                            {
+                                "t" : "The preborn are human.", 
+                                "s" : "Offspring of human parents and have human DNA"
+                            }, 
+                            {
+                                "t" : "The preborn are whole organisms.", 
+                                "s" : "Intrinsic capacity to develop as organisims, where as sperm, egg, and body cells are just human tissue."
+                            }
+                        ], 
+                        [
+                            {
+                                "t" : "Even Pro-choice advocates believe life begins at conception.", 
+                                "s" : "'There is no doubt that from the first moments of its existence an embryo conceived from human sperm and egs is a human being.' - Peter Singer, Practical Ethics."
+                            }
+                        ]
+                    ]
+                }, 
+                {
+                    "title" : "It's Legal", 
+                    "tracts" : [
+                        [
+                            {
+                                "t" : "Human life begins at conception.", 
+                                "s" : "Support One. The word for eat is Trogo, meaning to gnaw in Greek."
+                            }, 
+                            {
+                                "t" : "The preborn are alive.", 
+                                "s" : "Take in nutrients."
+                            }, 
+                            {
+                                "t" : "The preborn are human.", 
+                                "s" : "Offspring of human parents and have human DNA"
+                            }, 
+                            {
+                                "t" : "The preborn are whole organisms.", 
+                                "s" : "Intrinsic capacity to develop as organisims, where as sperm, egg, and body cells are just human tissue."
+                            }
+                        ], 
+                        [
+                            {
+                                "t" : "Even Pro-choice advocates believe life begins at conception.", 
+                                "s" : "'There is no doubt that from the first moments of its existence an embryo conceived from human sperm and egs is a human being.' - Peter Singer, Practical Ethics."
+                            }
+                        ]
+                    ]
+                }, 
+                {
+                    "title" : "Burden for Mother", 
+                    "tracts" : [
+                        [
+                            {
+                                "t" : "Human life begins at conception.", 
+                                "s" : "Support One. The word for eat is Trogo, meaning to gnaw in Greek."
+                            }, 
+                            {
+                                "t" : "The preborn are alive.", 
+                                "s" : "Take in nutrients."
+                            }, 
+                            {
+                                "t" : "The preborn are human.", 
+                                "s" : "Offspring of human parents and have human DNA"
+                            }, 
+                            {
+                                "t" : "The preborn are whole organisms.", 
+                                "s" : "Intrinsic capacity to develop as organisims, where as sperm, egg, and body cells are just human tissue."
+                            }
+                        ], 
+                        [
+                            {
+                                "t" : "Even Pro-choice advocates believe life begins at conception.", 
+                                "s" : "'There is no doubt that from the first moments of its existence an embryo conceived from human sperm and egs is a human being.' - Peter Singer, Practical Ethics."
+                            }
+                        ]
+                    ]
+                }, 
+                {
+                    "title" : "Back alley Abortion", 
+                    "tracts" : [
+                        [
+                            {
+                                "t" : "Human life begins at conception.", 
+                                "s" : "Support One. The word for eat is Trogo, meaning to gnaw in Greek."
+                            }, 
+                            {
+                                "t" : "The preborn are alive.", 
+                                "s" : "Take in nutrients."
+                            }, 
+                            {
+                                "t" : "The preborn are human.", 
+                                "s" : "Offspring of human parents and have human DNA"
+                            }, 
+                            {
+                                "t" : "The preborn are whole organisms.", 
+                                "s" : "Intrinsic capacity to develop as organisims, where as sperm, egg, and body cells are just human tissue."
+                            }
+                        ], 
+                        [
+                            {
+                                "t" : "Even Pro-choice advocates believe life begins at conception.", 
+                                "s" : "'There is no doubt that from the first moments of its existence an embryo conceived from human sperm and egs is a human being.' - Peter Singer, Practical Ethics."
+                            }
+                        ]
+                    ]
+                }, 
+                {
+                    "title" : "Rape", 
+                    "tracts" : [
+                        [
+                            {
+                                "t" : "Human life begins at conception.", 
+                                "s" : "Support One. The word for eat is Trogo, meaning to gnaw in Greek."
+                            }, 
+                            {
+                                "t" : "The preborn are alive.", 
+                                "s" : "Take in nutrients."
+                            }, 
+                            {
+                                "t" : "The preborn are human.", 
+                                "s" : "Offspring of human parents and have human DNA"
+                            }, 
+                            {
+                                "t" : "The preborn are whole organisms.", 
+                                "s" : "Intrinsic capacity to develop as organisims, where as sperm, egg, and body cells are just human tissue."
+                            }
+                        ], 
+                        [
+                            {
+                                "t" : "Even Pro-choice advocates believe life begins at conception.", 
+                                "s" : "'There is no doubt that from the first moments of its existence an embryo conceived from human sperm and egs is a human being.' - Peter Singer, Practical Ethics."
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}
