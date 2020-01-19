@@ -3,50 +3,6 @@
     "tops" : [
         {
             "title" : "Abortion", 
-            "request" : {
-                "type" : "GET", 
-                "url" : "http://localhost:3000/topics/5cb8f20514b0686d795a3046"
-            }, 
-            "subs" : [
-                {
-                    "title" : "It's Not Alive", 
-                    "tracts" : [
-                        [
-                            {
-                                "t" : "Human life begins at conception.", 
-                                "s" : "Support One. The word for eat is Trogo, meaning to gnaw in Greek."
-                            }, 
-                            {
-                                "t" : "The preborn are alive.", 
-                                "s" : "Take in nutrients."
-                            }, 
-                            {
-                                "t" : "The preborn are human.", 
-                                "s" : "Offspring of human parents and have human DNA"
-                            }, 
-                            {
-                                "t" : "The preborn are whole organisms.", 
-                                "s" : "Intrinsic capacity to develop as organisims, where as sperm, egg, and body cells are just human tissue."
-                            }
-                        ], 
-                        [
-                            {
-                                "t" : "Even Pro-choice advocates believe life begins at conception.", 
-                                "s" : "'There is no doubt that from the first moments of its existence an embryo conceived from human sperm and egs is a human being.' - Peter Singer, Practical Ethics."
-                            }
-                        ]
-                    ]
-                }
-            ]
-        }
-    ]
-}
-{ 
-    "_id" : ObjectId("5e214761f5fbf18d6eace365"), 
-    "title" : "Church", 
-    "tops" : [
-        {
-            "title" : "Abortion", 
             "subs" : [
                 {
                     "title" : "It's Not Alive", 
